@@ -6,4 +6,4 @@
 
 All deadlines are 23:59 AoE (UTC-12)
 
-Click [here(TBD)] to submit a paper
+Click [here](https://openreview.net/group?id=JDSE/2025/Conference&referrer=[Homepage](%2F)) to submit a paper
