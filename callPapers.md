@@ -9,4 +9,5 @@ Submissions must be in the form of an extended abstract and must adopt the style
 
 All deadlines are 23:59 AoE (UTC-12)
 
-Click [here](https://openreview.net/group?id=JDSE/2025/Conference&referrer=[Homepage](%2F)) to submit a paper. Plan to register in advance on OpenReview.
+Click [here](https://openreview.net/group?id=JDSE/2025/Conference&referrer=[Homepage](%2F)) to submit a paper. 
+Please note that submitting a paper on the OpenReview platform requires prior registration. If you use a non-institutional e-mail address (e.g gmail, yahoo, etc), you should allow several days for your account to be validated. It is therefore advisable to plan ahead.
