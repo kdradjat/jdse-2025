@@ -1,9 +1,9 @@
 ## Organization Committee
 ### Junior Committee
+* **Amira Dhaouadi**, *Inria Saclay, Institut Polytechnique de Paris*
 * **Kevin Dradjat**, *Université d'Evry Paris-Saclay*
 * **Nassima Kaid**, *Université de Versailles Paris-Saclay*  
 * **Roberto Petoh**, *Université de Versailles Paris-Saclay* 
-* **Amira Dhaouadi**, *Inria Saclay, Institut Polytechnique de Paris*
 
 ### Senior Committee
 * **Radu-Alexandru Dragomir**, *Télécom Paris, Institut Polytechnique de Paris*
