@@ -33,8 +33,8 @@ More about speakers [here](https://kdradjat.github.io/jdse-2025/speakers).
 ### Junior Committee
 * **Amira Dhaouadi**, *Inria Saclay, Institut Polytechnique de Paris* 
 * **Kevin Dradjat**, *Université d'Evry Paris-Saclay*
-* **Nassima Kaid**, *Université de Versailles Paris-Saclay*  
-* **Roberto Petoh**, *Université de Versailles Paris-Saclay* 
+* **Nassima Kaid**, *UVSQ, Université Paris-Saclay*  
+* **Roberto Petoh**, *UVSQ, Université Paris-Saclay* 
 
 ### Senior Committee
 * **Radu-Alexandru Dragomir**, *Télécom Paris, Institut Polytechnique de Paris*
