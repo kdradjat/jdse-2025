@@ -24,7 +24,8 @@ Topics of interest include, but are not restricted to:
 More informations about submissions [here](https://kdradjat.github.io/jdse-2025/callPapers).
 
 ## Keynotes
-[TBD] 
+* **Marine Le Morvan**, Inria
+* **Aurélien Belley**, Inria 
 
 ## Organization Committee
 ### Junior Committee
