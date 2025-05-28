@@ -25,7 +25,8 @@ More informations about submissions [here](https://kdradjat.github.io/jdse-2025/
 
 ## Keynotes
 * **Marine Le Morvan**, Inria
-* **Aurélien Belley**, Inria 
+* **Aurélien Belley**, Inria
+* 
 More about speakers [here](https://kdradjat.github.io/jdse-2025/speakers).
 
 ## Organization Committee
