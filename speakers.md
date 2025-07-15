@@ -6,7 +6,7 @@
 <ins>Biography</ins>: Marine Le Morvan is a research scientist at Inria. She is passionate about using AI to tackle complex scientific and healthcare problems, ensuring that machine learning models are both powerful and reliable. Her research lies at the intersection of statistical learning and trustworthy AI, with a focus on:
     * Tabular foundation models, which unlock new possibilities through large-scale pretraining.
     * Model auditing, to enhance the trustworthiness and reliability of machine learning systems.
-    * Learning from incomplete data, a challenge pervasive in fields like healthcare and social sciences. <br>
+    * Learning from incomplete data, a challenge pervasive in fields like healthcare and social sciences. 
 
 * **Aurélien Bellet**, *INRIA* - Senior Researcher <br>
 <ins>Title</ins>: Privacy in Machine Learning <br>
