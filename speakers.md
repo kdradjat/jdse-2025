@@ -4,10 +4,9 @@
 <ins>Title</ins>: Learning with Missing Values: Theoretical Insights and Practical recommendations <br>
 <ins>Abstract</ins>: Missing values are ubiquitous in many fields such as health, business or social sciences. To date, much of the literature on missing values has focused on imputation as well as inference with incomplete data. In contrast, supervised learning in the presence of missing values has received little attention. In this talk I will explain the challenges posed by missing values in regression and classification tasks. In practice, a common solution consists in imputing the missing values prior to learning. We will first examine the theoretical foundations of Impute-then-Regress approaches, and then clarify if and when investing in advanced imputation methods leads to significantly better predictions in practice. <br>
 <ins>Biography</ins>: Marine Le Morvan is a research scientist at Inria. Her research lies at the intersection of statistical learning and trustworthy AI, with a focus on:
-    * Tabular foundation models, which unlock new possibilities through large-scale pretraining.
-    * Model auditing, to enhance the trustworthiness and reliability of machine learning systems.
-    * Learning from incomplete data, a challenge pervasive in fields like healthcare and social sciences. <br>
-
+    ** Tabular foundation models, which unlock new possibilities through large-scale pretraining.
+    ** Model auditing, to enhance the trustworthiness and reliability of machine learning systems.
+    ** Learning from incomplete data, a challenge pervasive in fields like healthcare and social sciences. <br>
 She is passionate about using AI to tackle complex scientific and healthcare problems, ensuring that machine learning models are both powerful and reliable.
 
 * **Aurélien Bellet**, *INRIA* - Senior Researcher <br>
