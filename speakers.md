@@ -7,7 +7,7 @@
     * Tabular foundation models, which unlock new possibilities through large-scale pretraining.
     * Model auditing, to enhance the trustworthiness and reliability of machine learning systems.
     * Learning from incomplete data, a challenge pervasive in fields like healthcare and social sciences. <br>
-* She is passionate about using AI to tackle complex scientific and healthcare problems, ensuring that machine learning models are both powerful and reliable.
+    She is passionate about using AI to tackle complex scientific and healthcare problems, ensuring that machine learning models are both powerful and reliable.
 
 * **Aurélien Bellet**, *INRIA* - Senior Researcher <br>
 <ins>Title</ins>: Privacy in Machine Learning <br>
