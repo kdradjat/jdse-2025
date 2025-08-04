@@ -24,8 +24,10 @@ Topics of interest include, but are not restricted to:
 More informations about submissions [here](https://kdradjat.github.io/jdse-2025/callPapers).
 
 ## Keynotes
-* **Marine Le Morvan**, INRIA
-* **Aurélien Bellet**, INRIA
+* **Marine Le Morvan**, INRIA - Research Scientist
+* **Aurélien Bellet**, INRIA - Senior Researcher
+* **Silvia Tulli**, HABS - Senior AI Researcher
+* **Sihem Cherrared**, Orange - Research Enginner
 
 More about speakers [here](https://kdradjat.github.io/jdse-2025/speakers).
 
