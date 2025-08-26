@@ -6,7 +6,7 @@ A submission example can be found [here](https://jdse-paris.github.io/jDSE2019/a
 The scientific program committee will review the submitted extended abstracts and will select a subset of them for oral presentations (in English) and others for poster presentations. Please note that selected abstracts will not be published in conference proceedings.
 
 ## Important Dates
-* Submission Deadline: 24 August 2025
+* Submission Deadline: ~~24 August 2025~~ 31 August 2025 (Deadline Extension)
 * Notification to authors: 12 September 2025
 * Registration: 19 September 2025
 * **Conference: 25-26 September 2025**
