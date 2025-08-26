@@ -15,7 +15,7 @@ Topics of interest include, but are not restricted to:
 * Data Privacy
 
 ## Important Dates
-* Submission Deadline: 24 August 2025
+* Submission Deadline: ~~24 August 2025~~ 31 August 2025 (Deadline Extension)
 * Notification to authors: 12 September 2025
 * Registration: 19 September 2025
 * **Conference: 25-26 September 2025**
