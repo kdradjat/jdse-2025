@@ -15,7 +15,7 @@
 * 14:00 - 15:20 Students presentations:
     * First Steps Towards Generalist Multi-View 360° Panorama Generation, *Simon Coessens, Akash Malhotra, Nacera seghouani* 
     * Symbolic Regression for Turbulent Convection: Predicting Wall Quantities in Rayleigh–Bénard Flows, *Lylian Challier*
-    * GaussianDiffusion: Learning Image Generation Process in Gaussian Representation Space, *Arijit Samal, Simon Coessens, Akash Malhotra, Nacera seghouani *
+    * GaussianDiffusion: Learning Image Generation Process in Gaussian Representation Space, *Arijit Samal, Simon Coessens, Akash Malhotra, Nacera seghouani*
     * AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
 * 15:20 - 17:00 Student poster session n°1 (pitch and poster):
     * Airport energy optimization with AI and Optimal Control, *Gabriel Gros*
@@ -33,6 +33,16 @@
 ## Friday 27th September
 * 09:00 Registration
 * 9:15 - 10:30 Student poster session n°2 (pitch and poster):
+    * Sensor Fusion via Optimal Transport, *Ilyes Jaouedi, Gilles Chardon, José Picheral*
+    * Evaluation of LLMs with RAG for Factual Verification in the Biomedical Domain, *Lidan Zhang, Louise Deléger, Olivier Inizan, Arnaud Ferré*
+    * Towards Better Identification of Fact Tables in Statistical Spreadsheets, *Paul Kronlund-Drouault*
+    * From Unstructured Text to Knowledge Graphs : Towards More Reliable RAG Systems, *Khadija ABATTANE*
+    * Classifier uncertainty beyond calibration, *Sébastien Melo, Marine Le Morvan, Gaël Varoquaux*
+    * Neural Field Turing Machine: A Differentiable Spatial Computer, *Akash Malhotra, Nacera seghouani*
+    * AtomicEval: Evaluation Framework for Atomic Proposition Autonomy with French Propositioner, *Luc Pommeret*
+    * Online Shuffling for Online Machine Learning and Progressive Visualization, *Pavlo Poliuha, Francesca Bugiotti, Benoît Groz, Daniel E. Keim*
+    * Leveraging Large Language Models for maintaining scientific multilingual documents, *Yehor KOROTENKO*
+    * Towards long haplotype modeling with Mamba for Local Ancestry inference, *Ilan Aliouchouche, Antoine Szatkownik, Flora Jay*
 * 10:30 - 11h30 Keynote:
     * **Multimodal Biometric Intelligence: From Academic Research to Industry Applications**, *Silvia Tulli*, Senior Researcher, HABS
     * **The Application of Agentic AI in Network Automation**, *Sihem Cherrared*, Research Engineer, Orange
