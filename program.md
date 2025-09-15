@@ -19,14 +19,14 @@
     * AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
 * 15:20 - 17:00 Student poster session n°1 (pitch and poster):
     * Airport energy optimization with AI and Optimal Control, *Gabriel Gros*
-    * Context-Aware Location Privacy-Preserving System for Multi-modal Transportation, *Huyen-Trang Le, Mariana Cunha, João P. Vilela, Nazim Agoulmine *
+    * Context-Aware Location Privacy-Preserving System for Multi-modal Transportation, *Huyen-Trang Le, Mariana Cunha, João P. Vilela, Nazim Agoulmine*
     * Analyzing Menstrual Cycle Awareness in LLM-Generated Fitness Advice, *Alessa Mayer*
-    * Generative kernel embedding for weighted directed networks, *Erwan CELANIE, Alex Barbier Chebbah, Christian L Vestergaard, Jean Baptiste Masson *
-    * Exact Multiple Change-Point Detection Via Smallest Valid Partitioning, *Alexandre Combeau, Vincent Runge, Gaetano Romano, Anica Kostic * 
-    * Neural network growth through functional gradient descent, *Théo Rudkiewicz, Manon Verbockhaven, Sylvain Chevallier, Guillaume Charpiat *
-    * On the Combination of Tensor Decomposition and Quantization for CNN Compression, *Clément Laroudie, Mohamed Ouerfelli *
-    * Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi *
-    * WINN: WOFOST Insights in Neural Networks, *Julian Agudelo, Vincent Guigue, Manfredotti Cristina, Evelyne Lutton *
+    * Generative kernel embedding for weighted directed networks, *Erwan CELANIE, Alex Barbier Chebbah, Christian L Vestergaard, Jean Baptiste Masson*
+    * Exact Multiple Change-Point Detection Via Smallest Valid Partitioning, *Alexandre Combeau, Vincent Runge, Gaetano Romano, Anica Kostic* 
+    * Neural network growth through functional gradient descent, *Théo Rudkiewicz, Manon Verbockhaven, Sylvain Chevallier, Guillaume Charpiat*
+    * On the Combination of Tensor Decomposition and Quantization for CNN Compression, *Clément Laroudie, Mohamed Ouerfelli*
+    * Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi*
+    * WINN: WOFOST Insights in Neural Networks, *Julian Agudelo, Vincent Guigue, Manfredotti Cristina, Evelyne Lutton*
     * Measuring Semantic Change in Scientific Literature using SciBERT, *Jianying LIU*
 
 
