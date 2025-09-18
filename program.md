@@ -3,7 +3,7 @@
 ## Thursday 25th September
 * 08:45 - 09:15 Coffee & Registration
 * 09:15 - 09:30 Opening speech
-* 09:30 - 10:30 Keynote: **Trajectoire d’une Startup Deep Tech en IA : De l’IA Exploratoire pour les Industries à l’IA Générative pour le Droit**, *Marine Le Morvan*, INRIA, Resaerch Scientist 
+* 09:30 - 10:30 Keynote: **Learning with Missing Values: Theoretical Insights and Practical Recommendations**, *Marine Le Morvan*, INRIA, Resaerch Scientist 
 * 10:30 - 11:00 Coffee break
 * 11:00 - 12:20 Student presentations
     * Assessing scientific (dis)agreement: a cross-disciplinary approach to rhetorical citation classification using language model transfer, *Anne-Sophie Foussat, Vincent Guigue, Nicolas Sauvion, Robert Bossy, Claire Nédellec*
