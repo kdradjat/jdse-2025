@@ -10,7 +10,7 @@
 
 * <a href="https://researchers.lille.inria.fr/abellet/">**Aurélien Bellet**</a>, *INRIA* - Senior Researcher <br>
 <ins>Title</ins>: Privacy in Machine Learning <br>
-<ins>Abstract</ins>: <br>
+<ins>Abstract</ins>: Machine learning models can inadvertently leak sensitive information about the data used to train them. This talk will begin with an overview of the main classes of privacy attacks targeting machine learning models. I will then introduce privacy-preserving approaches, focusing on the foundations of differential privacy and how it enables training with provable and robust guarantees. Building on this, I will discuss auditing methods to assess and enforce privacy protections in practice. I will conclude by highlighting some open research challenges.<br>
 <ins>Biography</ins>: Aurélien Bellet is a senior researcher at Inria France. His current research focuses on the design of privacy-preserving machine learning algorithms in centralized and decentralized settings. Aurélien has served as area chair for top conferences such as ICML, NeurIPS and AISTATS. He co-organized several international workshops on machine learning and privacy. He also co-organizes FLOW, an online seminar on federated learning.
 
 * <a href="https://silviatulli.com/">**Silvia Tulli**</a>, *HABS* - Senior AI Researcher <br>
