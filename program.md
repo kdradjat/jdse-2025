@@ -32,7 +32,7 @@
     * Measuring Semantic Change in Scientific Literature using SciBERT, *Jianying LIU*
 
 
-## Friday 27th September
+## Friday 26th September
 * 9:00 Registration
 * 9:10 - 9:15 Presentation DATAIA
 * 9:20 - 10:20 Keynote:
@@ -44,7 +44,6 @@
     * Towards Better Identification of Fact Tables in Statistical Spreadsheets, *Paul Kronlund-Drouault*
     * From Unstructured Text to Knowledge Graphs : Towards More Reliable RAG Systems, *Khadija ABATTANE*
     * Classifier uncertainty beyond calibration, *Sébastien Melo, Marine Le Morvan, Gaël Varoquaux*
-    * Neural Field Turing Machine: A Differentiable Spatial Computer, *Akash Malhotra, Nacera seghouani*
     * AtomicEval: Evaluation Framework for Atomic Proposition Autonomy with French Propositioner, *Luc Pommeret*
     * Online Shuffling for Online Machine Learning and Progressive Visualization, *Pavlo Poliuha, Francesca Bugiotti, Benoît Groz, Daniel E. Keim*
     * Leveraging Large Language Models for maintaining scientific multilingual documents, *Yehor KOROTENKO*
