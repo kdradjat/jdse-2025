@@ -45,7 +45,7 @@
     * From Unstructured Text to Knowledge Graphs : Towards More Reliable RAG Systems, *Khadija ABATTANE*
     * Classifier uncertainty beyond calibration, *Sébastien Melo, Marine Le Morvan, Gaël Varoquaux*
     * AtomicEval: Evaluation Framework for Atomic Proposition Autonomy with French Propositioner, *Luc Pommeret*
-    * Online Shuffling for Online Machine Learning and Progressive Visualization, *Pavlo Poliuha, Francesca Bugiotti, Benoît Groz, Daniel E. Keim*
+    * Online Shuffling for Online Machine Learning and Progressive Visualization, *Pavlo Poliuha, Francesca Bugiotti, Benoît Groz, Jean-Daniel Fekete*
     * Leveraging Large Language Models for maintaining scientific multilingual documents, *Yehor KOROTENKO*
 * 11:30 - 12:50 Student presentations:
     * Revisiting Optimal Class Ratios in Imbalanced Learning, *Baptiste PRAS*
