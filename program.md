@@ -10,26 +10,26 @@
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/AnneSophie_Foussat_JDSE.pdf) Assessing scientific (dis)agreement: a cross-disciplinary approach to rhetorical citation classification using language model transfer, *Anne-Sophie Foussat, Vincent Guigue, Nicolas Sauvion, Robert Bossy, Claire Nédellec*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/AutomatedMotifExtraction_JDSE2025.pdf) Automated Motif Extraction from Folktales Using Large Language Models, *Saba Shahsavari, Alessa Mayer, Fabian M. Suchanek*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/pitch_estimation.pdf) Robustness to Low-Frequency Noise in Pitch Estimation, *Yifei Wang*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Veriscite, A Resource for Scientific Claim Verification - LuciaCatalan.pdf) Veriscite: A Resource for Scientific Claim Verification, *Lucía Catalán Gris, Kim Gerdes*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Veriscite.pdf) Veriscite: A Resource for Scientific Claim Verification, *Lucía Catalán Gris, Kim Gerdes*
 * 12:20 - 13:20 Lunch break
 * 13:20 - 14:20 Keynotes: **Privacy in Machine Learning**, *Aurélien Bellet*, INRIA, Senior Researcher
 * 14:20 - 15:40 Students presentations:
     * First Steps Towards Generalist Multi-View 360° Panorama Generation, *Simon Coessens, Akash Malhotra, Nacera seghouani* 
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/CHALLIER-Lylian.pdf) Symbolic Regression for Turbulent Convection: Predicting Wall Quantities in Rayleigh–Bénard Flows, *Lylian Challier*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_ARIJIT_GaussianDiffusion.pdf) GaussianDiffusion: Learning Image Generation Process in Gaussian Representation Space, *Arijit Samal, Simon Coessens, Akash Malhotra, Nacera seghouani*
-    * [[Slides]] AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
+    * AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
 * 15:40 - 15:50 JDSE's 10th anniversary quizz
 * 15:50 - 17:30 Student poster session n°1 (pitch and poster):
-    * Airport energy optimization with AI and Optimal Control, *Gabriel Gros*
-    * Context-Aware Location Privacy-Preserving System for Multi-modal Transportation, *Huyen-Trang Le, Mariana Cunha, João P. Vilela, Nazim Agoulmine*
-    * Analyzing Menstrual Cycle Awareness in LLM-Generated Fitness Advice, *Alessa Mayer*
-    * Generative kernel embedding for weighted directed networks, *Erwan CELANIE, Alex Barbier Chebbah, Christian L Vestergaard, Jean Baptiste Masson*
-    * Exact Multiple Change-Point Detection Via Smallest Valid Partitioning, *Alexandre Combeau, Vincent Runge, Gaetano Romano, Anica Kostic* 
-    * Neural network growth through functional gradient descent, *Théo Rudkiewicz, Manon Verbockhaven, Sylvain Chevallier, Guillaume Charpiat*
-    * On the Combination of Tensor Decomposition and Quantization for CNN Compression, *Clément Laroudie, Mohamed Ouerfelli*
-    * Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi*
-    * WINN: WOFOST Insights in Neural Networks, *Julian Agudelo, Vincent Guigue, Manfredotti Cristina, Evelyne Lutton*
-    * Measuring Semantic Change in Scientific Literature using SciBERT, *Jianying LIU*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Airport energy optimization with AI and Optimal Control, *Gabriel Gros*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Context-Aware Location Privacy-Preserving System for Multi-modal Transportation, *Huyen-Trang Le, Mariana Cunha, João P. Vilela, Nazim Agoulmine*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Analyzing Menstrual Cycle Awareness in LLM-Generated Fitness Advice, *Alessa Mayer*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Generative kernel embedding for weighted directed networks, *Erwan CELANIE, Alex Barbier Chebbah, Christian L Vestergaard, Jean Baptiste Masson*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Exact Multiple Change-Point Detection Via Smallest Valid Partitioning, *Alexandre Combeau, Vincent Runge, Gaetano Romano, Anica Kostic* 
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Neural network growth through functional gradient descent, *Théo Rudkiewicz, Manon Verbockhaven, Sylvain Chevallier, Guillaume Charpiat*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) On the Combination of Tensor Decomposition and Quantization for CNN Compression, *Clément Laroudie, Mohamed Ouerfelli*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) WINN: WOFOST Insights in Neural Networks, *Julian Agudelo, Vincent Guigue, Manfredotti Cristina, Evelyne Lutton*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/) Measuring Semantic Change in Scientific Literature using SciBERT, *Jianying LIU*
 
 
 ## Friday 26th September
@@ -48,10 +48,10 @@
     * Online Shuffling for Online Machine Learning and Progressive Visualization, *Pavlo Poliuha, Francesca Bugiotti, Benoît Groz, Jean-Daniel Fekete*
     * Leveraging Large Language Models for maintaining scientific multilingual documents, *Yehor KOROTENKO*
 * 11:30 - 12:50 Student presentations:
-    * Revisiting Optimal Class Ratios in Imbalanced Learning, *Baptiste PRAS*
-    * Entity InfoCards from Heterogeneous Data Lakes, *Saba Shahsavari*
-    * Data-Driven Tensor Decomposition: A New Approach to Compressing CNNs, *Alper KALLE, Théo Rudkiewicz, Mohamed Ouerfelli, mohamed Tamaazousti*
-    * A Logic-based Model for the Detection of Fixation Bias, *Gabrielle Porcher, Frédéric Boulanger, Nicolas Sabouret*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/RevisitingOptimalClassRatiosInImbalancedLearning_JDSE2025.pdf) Revisiting Optimal Class Ratios in Imbalanced Learning, *Baptiste PRAS*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/InfoCard_JDSE2025_SabaShahsavari.pdf) Entity InfoCards from Heterogeneous Data Lakes, *Saba Shahsavari*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/AlperKALLE_Data-Driven.pdf) Data-Driven Tensor Decomposition: A New Approach to Compressing CNNs, *Alper KALLE, Théo Rudkiewicz, Mohamed Ouerfelli, mohamed Tamaazousti*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Porcher_JDSE2025.pdf) A Logic-based Model for the Detection of Fixation Bias, *Gabrielle Porcher, Frédéric Boulanger, Nicolas Sabouret*
 * 12:50 - 13:00 Video of JDSE's 10th anniversary
 * 13:00 - 13:15 Best presentation and poster awards
 * 13:15 Lunch
