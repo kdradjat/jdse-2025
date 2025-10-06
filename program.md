@@ -7,17 +7,17 @@
 * 09:30 - 10:30 Keynote: **Learning with Missing Values: Theoretical Insights and Practical Recommendations**, *Marine Le Morvan*, INRIA, Research Scientist 
 * 10:30 - 11:00 Coffee break
 * 11:00 - 12:20 Student presentations
-    * Assessing scientific (dis)agreement: a cross-disciplinary approach to rhetorical citation classification using language model transfer, *Anne-Sophie Foussat, Vincent Guigue, Nicolas Sauvion, Robert Bossy, Claire Nédellec*
-    * Automated Motif Extraction from Folktales Using Large Language Models, *Saba Shahsavari, Alessa Mayer, Fabian M. Suchanek*
-    * Robustness to Low-Frequency Noise in Pitch Estimation, *Yifei Wang*
-    * Veriscite: A Resource for Scientific Claim Verification, *Lucía Catalán Gris, Kim Gerdes*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/AnneSophie_Foussat_JDSE.pdf) Assessing scientific (dis)agreement: a cross-disciplinary approach to rhetorical citation classification using language model transfer, *Anne-Sophie Foussat, Vincent Guigue, Nicolas Sauvion, Robert Bossy, Claire Nédellec*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/AutomatedMotifExtraction_JDSE2025.pdf) Automated Motif Extraction from Folktales Using Large Language Models, *Saba Shahsavari, Alessa Mayer, Fabian M. Suchanek*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/pitch_estimation.pdf) Robustness to Low-Frequency Noise in Pitch Estimation, *Yifei Wang*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Veriscite, A Resource for Scientific Claim Verification - LuciaCatalan.pdf) Veriscite: A Resource for Scientific Claim Verification, *Lucía Catalán Gris, Kim Gerdes*
 * 12:20 - 13:20 Lunch break
 * 13:20 - 14:20 Keynotes: **Privacy in Machine Learning**, *Aurélien Bellet*, INRIA, Senior Researcher
 * 14:20 - 15:40 Students presentations:
     * First Steps Towards Generalist Multi-View 360° Panorama Generation, *Simon Coessens, Akash Malhotra, Nacera seghouani* 
-    * Symbolic Regression for Turbulent Convection: Predicting Wall Quantities in Rayleigh–Bénard Flows, *Lylian Challier*
-    * GaussianDiffusion: Learning Image Generation Process in Gaussian Representation Space, *Arijit Samal, Simon Coessens, Akash Malhotra, Nacera seghouani*
-    * AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/CHALLIER-Lylian.pdf) Symbolic Regression for Turbulent Convection: Predicting Wall Quantities in Rayleigh–Bénard Flows, *Lylian Challier*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_ARIJIT_GaussianDiffusion.pdf) GaussianDiffusion: Learning Image Generation Process in Gaussian Representation Space, *Arijit Samal, Simon Coessens, Akash Malhotra, Nacera seghouani*
+    * [[Slides]] AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
 * 15:40 - 15:50 JDSE's 10th anniversary quizz
 * 15:50 - 17:30 Student poster session n°1 (pitch and poster):
     * Airport energy optimization with AI and Optimal Control, *Gabriel Gros*
