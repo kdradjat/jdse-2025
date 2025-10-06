@@ -20,14 +20,14 @@
     * AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
 * 15:40 - 15:50 JDSE's 10th anniversary quizz
 * 15:50 - 17:30 Student poster session n°1 (pitch and poster):
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/GabrielGROS_slide_JDSE.pdf) Airport energy optimization with AI and Optimal Control, *Gabriel Gros*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/context_aware_location.pdf) Context-Aware Location Privacy-Preserving System for Multi-modal Transportation, *Huyen-Trang Le, Mariana Cunha, João P. Vilela, Nazim Agoulmine*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/MAYER-JDSE2025-slide.pdf) Analyzing Menstrual Cycle Awareness in LLM-Generated Fitness Advice, *Alessa Mayer*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/GabrielGROS_slide_JDSE.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/1_GabrielGROS_JDSE_2025.pdf) Airport energy optimization with AI and Optimal Control, *Gabriel Gros*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/context_aware_location.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/3_Context-Aware_Location_Privacy-Preserving.pdf) Context-Aware Location Privacy-Preserving System for Multi-modal Transportation, *Huyen-Trang Le, Mariana Cunha, João P. Vilela, Nazim Agoulmine*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/MAYER-JDSE2025-slide.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/9_Analyzing_Menstrual_Cycle_Awareness_in_LLM-Generated_Fitness_Advice.pdf) Analyzing Menstrual Cycle Awareness in LLM-Generated Fitness Advice, *Alessa Mayer*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_pitch_CELANIE.pdf) Generative kernel embedding for weighted directed networks, *Erwan CELANIE, Alex Barbier Chebbah, Christian L Vestergaard, Jean Baptiste Masson*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Alexandre_Combeau_Slides_Poster.pdf) Exact Multiple Change-Point Detection Via Smallest Valid Partitioning, *Alexandre Combeau, Vincent Runge, Gaetano Romano, Anica Kostic* 
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/theo_rudkiewicz_jdse_2025_presentation.pdf) Neural network growth through functional gradient descent, *Théo Rudkiewicz, Manon Verbockhaven, Sylvain Chevallier, Guillaume Charpiat*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/teaser_clement_laroudie.pdf) On the Combination of Tensor Decomposition and Quantization for CNN Compression, *Clément Laroudie, Mohamed Ouerfelli*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/BIOMEDICAL_HALLUCINATION_DETECTION_OF_LLMS_USING_MED-HALT_AND_HALOSCOPE_FRAMEWORKS.pdf) Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/teaser_clement_laroudie.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/10_On_the_Combination_of_Tensor_Decomposition_and_Quantization_for_CNN_Compression-7.pdf) On the Combination of Tensor Decomposition and Quantization for CNN Compression, *Clément Laroudie, Mohamed Ouerfelli*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/BIOMEDICAL_HALLUCINATION_DETECTION_OF_LLMS_USING_MED-HALT_AND_HALOSCOPE_FRAMEWORKS.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/2_BIOMEDICAL_HALLUCINATION.pdf) Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Slides_WINN.pdf) WINN: WOFOST Insights in Neural Networks, *Julian Agudelo, Vincent Guigue, Manfredotti Cristina, Evelyne Lutton*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_JianyingLIU_1min.pdf) Measuring Semantic Change in Scientific Literature using SciBERT, *Jianying LIU*
 
@@ -41,12 +41,12 @@
 * 10:20 - 11:30 Student poster session n°2 (pitch and poster) with coffee break:
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Pitch_JDSE.pdf) Sensor Fusion via Optimal Transport, *Ilyes Jaouedi, Gilles Chardon, José Picheral*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/jdse-pitch-lidan-zhang.pdf) Evaluation of LLMs with RAG for Factual Verification in the Biomedical Domain, *Lidan Zhang, Louise Deléger, Olivier Inizan, Arnaud Ferré*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_Presentation.pdf) Towards Better Identification of Fact Tables in Statistical Spreadsheets, *Paul Kronlund-Drouault*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/poster_khadija_abattane.pdf) From Unstructured Text to Knowledge Graphs : Towards More Reliable RAG Systems, *Khadija ABATTANE*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_Presentation.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/5_Towards_Better_Identification_of_Fact_Tables_in_Statistical_Spreadsheets.pdf) Towards Better Identification of Fact Tables in Statistical Spreadsheets, *Paul Kronlund-Drouault*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/poster_khadija_abattane.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/7_From_Unstructured_Text_to_Knowledge_Graphs_Towards_More_Reliable_RAG_Systems.pdf) From Unstructured Text to Knowledge Graphs : Towards More Reliable RAG Systems, *Khadija ABATTANE*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Slides_JDSEMELOFinal.pdf) Classifier uncertainty beyond calibration, *Sébastien Melo, Marine Le Morvan, Gaël Varoquaux*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/atomic_eval_slides.pdf) AtomicEval: Evaluation Framework for Atomic Proposition Autonomy with French Propositioner, *Luc Pommeret*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Poster_Online_Shuffling_for_Online_Machine_Learning_and_Progressive_Visualization.pdf) Online Shuffling for Online Machine Learning and Progressive Visualization, *Pavlo Poliuha, Francesca Bugiotti, Benoît Groz, Jean-Daniel Fekete*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/korotenko-jdse-paper.pdf) Leveraging Large Language Models for maintaining scientific multilingual documents, *Yehor KOROTENKO*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/korotenko-jdse-paper.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/4_jdse-poster-yehor-korotenko.pdf) Leveraging Large Language Models for maintaining scientific multilingual documents, *Yehor KOROTENKO*
 * 11:30 - 12:50 Student presentations:
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/RevisitingOptimalClassRatiosInImbalancedLearning_JDSE2025.pdf) Revisiting Optimal Class Ratios in Imbalanced Learning, *Baptiste PRAS*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/InfoCard_JDSE2025_SabaShahsavari.pdf) Entity InfoCards from Heterogeneous Data Lakes, *Saba Shahsavari*
