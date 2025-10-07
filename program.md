@@ -14,7 +14,7 @@
 * 12:20 - 13:20 Lunch break
 * 13:20 - 14:20 Keynotes: **Privacy in Machine Learning**, *Aurélien Bellet*, INRIA, Senior Researcher
 * 14:20 - 15:40 Students presentations:
-    * First Steps Towards Generalist Multi-View 360° Panorama Generation, *Simon Coessens, Akash Malhotra, Nacera seghouani* 
+    * First Steps Towards Generalist Multi-View 360° Panorama Generation, *Simon Coessens, Akash Malhotra, Nacera seghouani* **Best Presentation Award**
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/CHALLIER-Lylian.pdf) Symbolic Regression for Turbulent Convection: Predicting Wall Quantities in Rayleigh–Bénard Flows, *Lylian Challier*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_ARIJIT_GaussianDiffusion.pdf) GaussianDiffusion: Learning Image Generation Process in Gaussian Representation Space, *Arijit Samal, Simon Coessens, Akash Malhotra, Nacera seghouani*
     * AI-driven Pipeline for Intrabody Design: Predicting and Optimizing Intracellular Stability of Nanobodies, *Savelii Komlev*
@@ -27,7 +27,7 @@
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Alexandre_Combeau_Slides_Poster.pdf) Exact Multiple Change-Point Detection Via Smallest Valid Partitioning, *Alexandre Combeau, Vincent Runge, Gaetano Romano, Anica Kostic* 
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/theo_rudkiewicz_jdse_2025_presentation.pdf) Neural network growth through functional gradient descent, *Théo Rudkiewicz, Manon Verbockhaven, Sylvain Chevallier, Guillaume Charpiat*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/teaser_clement_laroudie.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/10_On_the_Combination_of_Tensor_Decomposition_and_Quantization_for_CNN_Compression-7.pdf) On the Combination of Tensor Decomposition and Quantization for CNN Compression, *Clément Laroudie, Mohamed Ouerfelli*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/BIOMEDICAL_HALLUCINATION_DETECTION_OF_LLMS_USING_MED-HALT_AND_HALOSCOPE_FRAMEWORKS.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/2_BIOMEDICAL_HALLUCINATION.pdf) Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/BIOMEDICAL_HALLUCINATION_DETECTION_OF_LLMS_USING_MED-HALT_AND_HALOSCOPE_FRAMEWORKS.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/2_BIOMEDICAL_HALLUCINATION.pdf) Biomedical hallucination detection of LLMs using Med-HALT and HaloScope frameworks, *Idrissa Mahamoudou Dicko, Nona Naderi* **Best Poster Award**
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Slides_WINN.pdf) WINN: WOFOST Insights in Neural Networks, *Julian Agudelo, Vincent Guigue, Manfredotti Cristina, Evelyne Lutton*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_JianyingLIU_1min.pdf) Measuring Semantic Change in Scientific Literature using SciBERT, *Jianying LIU*
 
@@ -40,7 +40,7 @@
     * **The Application of Agentic AI in Network Automation**, *Sihem Cherrared*, Research Engineer, Orange
 * 10:20 - 11:30 Student poster session n°2 (pitch and poster) with coffee break:
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Pitch_JDSE.pdf) Sensor Fusion via Optimal Transport, *Ilyes Jaouedi, Gilles Chardon, José Picheral*
-    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/jdse-pitch-lidan-zhang.pdf) Evaluation of LLMs with RAG for Factual Verification in the Biomedical Domain, *Lidan Zhang, Louise Deléger, Olivier Inizan, Arnaud Ferré*
+    * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/jdse-pitch-lidan-zhang.pdf) Evaluation of LLMs with RAG for Factual Verification in the Biomedical Domain, *Lidan Zhang, Louise Deléger, Olivier Inizan, Arnaud Ferré* **Best Poster Award**
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/JDSE_Presentation.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/5_Towards_Better_Identification_of_Fact_Tables_in_Statistical_Spreadsheets.pdf) Towards Better Identification of Fact Tables in Statistical Spreadsheets, *Paul Kronlund-Drouault*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/poster_khadija_abattane.pdf)[[Poster]](https://kdradjat.github.io/jdse-2025/posters/7_From_Unstructured_Text_to_Knowledge_Graphs_Towards_More_Reliable_RAG_Systems.pdf) From Unstructured Text to Knowledge Graphs : Towards More Reliable RAG Systems, *Khadija ABATTANE*
     * [[Slides]](https://kdradjat.github.io/jdse-2025/slides/long/Slides_JDSEMELOFinal.pdf) Classifier uncertainty beyond calibration, *Sébastien Melo, Marine Le Morvan, Gaël Varoquaux*
